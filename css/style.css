@@ -16,7 +16,15 @@ body {
     padding: 0 20px;
 }
 
+/* PRODUCT CARDS */
+.card-image {
+    height: 400px;
+}
+
 /* FOOTER */
-#footer-links li {
-    display: inline;
+a .fa-facebook,
+a .fa-instagram,
+a .fa-twitter {
+    padding: 0 10px;
+    font-size: 1.1rem;
 }
