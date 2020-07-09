@@ -1,6 +1,14 @@
 /* TEST */
-* {
+/* * {
     border: 1px solid red;
+} */
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+.container {
+    flex: 1 0 auto;
 }
 
 /* NAVIGATION */
