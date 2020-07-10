@@ -22,6 +22,10 @@ body {
 }
 
 /* FOOTER */
+.page-footer {
+    padding: 0 20px;
+}
+
 a .fa-facebook,
 a .fa-instagram,
 a .fa-twitter {
